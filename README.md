@@ -1,4 +1,5 @@
 # Door-lock-unlock-via-telegram
+### DIFFICULTY LEVEL:EASY
 
 # Telegram home
 
